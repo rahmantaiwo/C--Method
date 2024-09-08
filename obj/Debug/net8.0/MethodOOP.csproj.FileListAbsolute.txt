@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\c#\MethodOOP\bin\Debug\net8.0\MethodOOP.exe
+C:\Users\HP\Documents\c#\MethodOOP\bin\Debug\net8.0\MethodOOP.deps.json
+C:\Users\HP\Documents\c#\MethodOOP\bin\Debug\net8.0\MethodOOP.runtimeconfig.json
+C:\Users\HP\Documents\c#\MethodOOP\bin\Debug\net8.0\MethodOOP.dll
+C:\Users\HP\Documents\c#\MethodOOP\bin\Debug\net8.0\MethodOOP.pdb
+C:\Users\HP\Documents\c#\MethodOOP\obj\Debug\net8.0\MethodOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\c#\MethodOOP\obj\Debug\net8.0\MethodOOP.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\c#\MethodOOP\obj\Debug\net8.0\MethodOOP.AssemblyInfo.cs
+C:\Users\HP\Documents\c#\MethodOOP\obj\Debug\net8.0\MethodOOP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\c#\MethodOOP\obj\Debug\net8.0\MethodOOP.dll
+C:\Users\HP\Documents\c#\MethodOOP\obj\Debug\net8.0\refint\MethodOOP.dll
+C:\Users\HP\Documents\c#\MethodOOP\obj\Debug\net8.0\MethodOOP.pdb
+C:\Users\HP\Documents\c#\MethodOOP\obj\Debug\net8.0\MethodOOP.genruntimeconfig.cache
+C:\Users\HP\Documents\c#\MethodOOP\obj\Debug\net8.0\ref\MethodOOP.dll
